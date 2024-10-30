@@ -1,7 +1,31 @@
-<h1 align="center" id="title">VtubersTV</h1>
+# VTubersTV
 
+> The Next Generation VTuber Platform
 
-This project is not done yet. It will be released on November 26, 2024.
+[![Discord](https://img.shields.io/discord/1294815569882775583?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.com/invite/KtaNFKjFKQ)
+[![Bluesky](https://img.shields.io/badge/Follow-VTubersTV-orange)](https://bsky.app/profile/vtubers.tv)
 
+## About
+VTubersTV is a platform for VTubers and their communities. Launch: 2024-11-26
 
-> VtubersTV is the ultimate destination for Vtubers and their fans alike. As a vibrant community, we're dedicated to empowering Vtubers to thrive and succeed in their creative journey. Much more than just a platform, we offer a suite of tools and resources designed to elevate content creation and sharing experiences. Think of us as your compact yet powerful hub, combining the best of YouTube and Twitch.
+## Features
+- Content creation tools
+- Community integration
+- Analytics
+- Streaming support
+- Resource hub
+
+## Contributing
+- Open issues for bugs
+- Submit PRs
+- Join discussions
+
+## Community
+- Discord: https://discord.gg/KtaNFKjFKQ
+- Bluesky: https://bsky.app/profile/vtubers.tv
+
+## Contributors
+See [CONTRIBUTORS.txt](.github/CONTRIBUTORS.txt)
+
+---
+Built for the VTuber community
