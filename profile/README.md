@@ -25,7 +25,7 @@ VTubersTV is a platform for VTubers and their communities. Launch: 2024-11-26
 - Bluesky: https://bsky.app/profile/vtubers.tv
 
 ## Contributors
-See [CONTRIBUTORS.txt](.github/CONTRIBUTORS.txt)
+See [CONTRIBUTORS.txt](../CONTRIBUTORS.txt)
 
 ---
 Built for the VTuber community
