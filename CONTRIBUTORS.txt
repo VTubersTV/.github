@@ -20,4 +20,3 @@ Community:   https://discord.gg/KtaNFKjFKQ
 Updated:     2024-10-30
 
 # Submit additions via pull request
-
