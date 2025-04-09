@@ -6,7 +6,7 @@
 [![Bluesky](https://img.shields.io/badge/Follow-VTubersTV-orange)](https://bsky.app/profile/vtubers.tv)
 
 ## About
-VTubersTV is a platform for VTubers and their communities. Launch: 2024-11-26
+VTubersTV is a platform for VTubers and their communities.
 
 ## Features
 - Content creation tools
