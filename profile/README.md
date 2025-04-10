@@ -1,7 +1,7 @@
 # VTubers.TV
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/VTubersTV/.github/main/profile/assets/logo.png" alt="VTubers.TV Logo" width="200"/>
+  <img src="https://avatars.githubusercontent.com/u/165866608?s=200" alt="VTubers.TV Logo" width="200"/>
   
   <p><em>The Next Generation VTuber Platform</em></p>
 
