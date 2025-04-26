@@ -72,13 +72,14 @@ We welcome contributions from the community! Here's how you can help:
 ## 📜 License
 
 All projects in the VTubers.TV ecosystem are dual-licensed under:
-- GPL-3.0 (GNU General Public License v3.0)
-- VCL (VTubers.TV Collaborative License)
+- AGPL-3.0 (GNU Affero General Public License v3.0)
+- VCL (VTubers.TV Commercial License)
 
 For full license details and terms, please see the appropriate LICENSE file.
 
-- [GPL-3.0](../LICENSE)
+- [AGPL-3.0](../LICENSE)
 - [VCL](../LICENSE-VCL) (Beta; W.I.P; Not enforced)
+- [All Licenses](../LICENSES.md)
 ---
 
 <div align="center">
