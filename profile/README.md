@@ -78,7 +78,7 @@ All projects in the VTubers.TV ecosystem are dual-licensed under:
 For full license details and terms, please see the appropriate LICENSE file.
 
 - [GPL-3.0](../LICENSE)
-- [VCL](../LICENSE-VCL)
+- [VCL](../LICENSE-VCL) (Beta; W.I.P; Not enforced)
 ---
 
 <div align="center">
