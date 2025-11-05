@@ -87,7 +87,7 @@ All major changes should maintain transparency and align with the project’s pr
 ## Contact
 
 Website: [https://vtubers.tv](https://vtubers.tv)  
-Primary Maintainer: **Lexi Rose Rogers** ([@lrr_dev](https://twitter.com/lrr_dev))  
+Primary Maintainer: **LRR** ([@lrr_dev](https://twitter.com/lrr_dev))  
 License: MIT-Community Variant
 
 ---
